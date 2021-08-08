@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to use the github
 - 💞️ I’m looking to collaborate on researches that can help in education
 - 📫 How to reach me: 
-        fabricio.herpich@gmail.com
+        fabricio.herpich@gmail.com or 
         https://www.researchgate.net/profile/Fabricio-Herpich
         
 <!---
