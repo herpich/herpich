@@ -5,9 +5,7 @@
 - 📫 How to reach me: 
         fabricio.herpich@gmail.com or 
         https://www.researchgate.net/profile/Fabricio-Herpich
-
-- 📷 Social media:
-          https://www.instagram.com/fabricioherpich/
+- 📷 Social media: [Instagram](https://www.instagram.com/fabricioherpich/)
         
 <!---
 herpich/herpich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
